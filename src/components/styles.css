@@ -1,0 +1,24 @@
+.productContainer {
+    width: 100% !important;
+}
+
+.org-price {
+    padding-left: 19px;
+    text-decoration: line-through;
+    color: gray;
+}
+
+@media (max-width: 771px) {
+    .prod-bottom-line {
+        margin-bottom: 45px !important;
+    }
+    /* .item-count-btn {
+        text-align: end; */
+    /* } */
+    .login-btn {
+        margin-left: 50%;
+    }
+    .login-span {
+        margin-inline-end: 15%;
+    }
+}
